@@ -1,0 +1,14 @@
+html, body {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10;
+  padding:0;
+  width: 100vw;
+
+}
+canvas {
+ 
+  border: 1px solid rgb(224, 25, 25);
+  margin: 20px;
+  cursor: crosshair;
+}
